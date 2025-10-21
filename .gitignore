@@ -3,3 +3,8 @@
 .env.save
 .env.*
 .ssh/
+id_rsa*
+id_ed25519*
+*.pem
+*.pub
+*.key
