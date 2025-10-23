@@ -1,0 +1,2 @@
+이 문서는 Langchain TextLoader 예시입니다.
+여러 줄의 텍스트를 포함합니다.

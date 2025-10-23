@@ -1,0 +1,3 @@
+FAISS는 Facebook AI Research에서 개발한 벡터 검색 라이브러리입니다.
+LangChain에서는 문서 임베딩을 벡터로 변환한 후,
+FAISS를 이용해 빠른 유사도 검색을 수행합니다.
